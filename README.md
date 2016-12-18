@@ -1,4 +1,4 @@
-# Fix-Chapter-File
+# Chapter-Fixer
 A python script for fixing chapter file. (Last Updated: Dec 2016)
 
 ## Synopsis
