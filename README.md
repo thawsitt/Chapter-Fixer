@@ -2,7 +2,7 @@
 A python script for fixing chapter file. (Last Updated: Dec 2016)
 
 ## Synopsis
-A script that I use personally for automating tedious **search-and-replace**/**copy-and-replace** processes
+A script that I use personally for automating tedious **search-and-replace**/**copy-and-paste** processes
 in chapter files.
 
 ## Motivation
